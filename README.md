@@ -1,16 +1,15 @@
-### Hi there 👋
+Hey there👋, Welcome to my Github Profile
 
-<!--
-**lacruype/lacruype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A student in IT Solutions and Programming, and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set.
 
-Here are some ideas to get you started:
+⚡🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🔧 I’m currently working on ...a desktop app for a personnal project.
+
+    💡 I’m curious about ...the Rust language even though I've never tried to learn it.
+
+    📖 I’m currently learning ...NodeJS and Electron.
+
+    ❄️ I’m looking to collaborate on ...Anything with my friends.
+
+    📫 How to reach me ...lacruype@student.42.fr
