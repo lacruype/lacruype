@@ -6,7 +6,7 @@ Hey there👋, Welcome to my Github Profile
 
     🔧 I’m currently working on ...a desktop app for a personnal project.
 
-    💡 I’m curious about ...the Rust language even though I've never tried to learn it.
+    💡 I’m curious about ...the Rust language even though I've never tried to learn it...yet.
 
     📖 I’m currently learning ...NodeJS and Electron.
 
