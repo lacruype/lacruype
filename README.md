@@ -10,6 +10,6 @@ Hey there👋, Welcome to my Github Profile
 
     📖 I’m currently learning ...NodeJS and Electron.
 
-    ❄️ I’m looking to collaborate on ...Anything with my friends.
+    ❄️ I’m looking to collaborate on ...Anything with my friends and/or interesting projects.
 
     📫 How to reach me ...lacruype@student.42.fr
